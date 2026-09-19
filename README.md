@@ -73,13 +73,14 @@ operations, customers and business workflows.
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
 ---
-
+<!--
 ### 👨‍💼 Employee Management System
 
 A full-stack application for managing employees, attendance,
 assigned work, salaries and leaves.
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
+--->
 
 ---
 
