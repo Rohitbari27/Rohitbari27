@@ -1,116 +1,109 @@
+<!-- =========================================================
+     ROHIT BARI - GITHUB PROFILE README
+     ========================================================= -->
+
 <div align="center">
 
 # 👋 Hi, I'm Rohit Bari
 
 ### 🚀 Full Stack Developer | MERN Stack | C# / .NET
 
-I build modern web applications and continuously learn new technologies
-to turn ideas into real-world solutions.
+Building real-world web applications with modern technologies
+and continuously improving my development skills.
 
-<p>
-  <a href="https://github.com/Rohitbari27">
-    <img src="https://img.shields.io/github/followers/Rohitbari27?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Rohitbari27">
-    <img src="https://komarev.com/ghpvc/?username=Rohitbari27&style=for-the-badge" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Rohitbari27">
+  <img src="https://img.shields.io/github/followers/Rohitbari27?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/Rohitbari27?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-bari-39ab1a233">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
 ---
 
+<!-- =========================================================
+     ABOUT ME
+     ========================================================= -->
+
 ## 👨‍💻 About Me
 
+I'm an **MCA student and aspiring Full Stack Developer** focused on
+building practical, scalable and user-friendly web applications.
+
+I enjoy learning by building projects and working across the complete
+development lifecycle — from designing interfaces to developing APIs,
+working with databases and implementing authentication.
+
 - 🎓 MCA Student
-- 💻 Aspiring Full Stack Developer
-- ⚛️ Building applications with React.js
-- 🟢 Developing backend applications with Node.js & Express.js
-- 🍃 Working with MongoDB
-- 🔷 Learning C# and ASP.NET Core
-- 🗄️ Working with SQL and SQL Server
-- 🔐 Interested in REST APIs, Authentication & Authorization
-- 🚀 Learning by building real-world projects
+- 💻 Full Stack Developer
+- ⚛️ React.js Developer
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🔷 C# / .NET
+- 🗄️ SQL / SQL Server
+- 🔐 REST APIs & Authentication
+- 🐳 Exploring Docker & deployment
 - 💼 Open to Full Stack Developer opportunities
 
 ---
 
+<!-- =========================================================
+     TECH STACK
+     ========================================================= -->
+
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- =========================================================
+     WHAT I BUILD
+     ========================================================= -->
 
-### 🏗️ Construction Material Sales & Operations Management System
-
-A full-stack MERN application designed to manage construction material sales,
-operations, customers and business workflows.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
----
-<!--
-### 👨‍💼 Employee Management System
-
-A full-stack application for managing employees, attendance,
-assigned work, salaries and leaves.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
---->
-
----
-
-### 💰 Expense Tracker
-
-A web application for tracking and managing personal expenses.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/Rohitbari27/Expense-Tracker)
-
----
-
-## 📚 Currently Learning
+## 🚀 What I Build
 
 ```text
-React.js
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB
-   ↓
+Frontend Development
+        ↓
+React.js + JavaScript
+        ↓
 REST APIs
-   ↓
+        ↓
+Node.js + Express.js
+        ↓
+MongoDB / SQL
+        ↓
 Authentication & Authorization
-   ↓
-C#
-   ↓
-ASP.NET Core
-   ↓
-Entity Framework Core
-   ↓
-Full Stack Development
+        ↓
+Full Stack Applications
