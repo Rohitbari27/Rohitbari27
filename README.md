@@ -21,7 +21,7 @@ and continuously improving my development skills.
   <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/rohit-bari-39ab1a233">
+<a href="https://www.linkedin.com/in/rohit-bari">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
